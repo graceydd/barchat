@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/data.csv"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "barchat"
+	}
+}
